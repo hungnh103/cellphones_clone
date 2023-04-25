@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  justify-content: center;
+  border: 1px solid green;
+
+  .body-wrapper {
+    width: 80%;
+    border: 1px solid blue;
+  }
+}
