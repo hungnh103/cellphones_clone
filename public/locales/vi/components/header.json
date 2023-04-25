@@ -1,0 +1,12 @@
+{
+  "components": {
+    "header": {
+      "login": "Đăng nhập",
+      "form": {
+        "input_search": {
+          "placeholder": "Bạn cần tìm gì?"
+        }
+      }
+    }
+  }
+}
