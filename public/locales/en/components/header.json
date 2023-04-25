@@ -1,0 +1,12 @@
+{
+  "components": {
+    "header": {
+      "login": "Login",
+      "form": {
+        "input_search": {
+          "placeholder": "Search product"
+        }
+      }
+    }
+  }
+}
