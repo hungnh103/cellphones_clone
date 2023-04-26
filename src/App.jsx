@@ -1,3 +1,5 @@
+import 'styles/app.scss'
+
 import {
   BrowserRouter as Router,
   Routes,
@@ -10,8 +12,6 @@ import Cart from "pages/Cart";
 import Category from "pages/Category";
 import NotFound from "pages/NotFound";
 import Header from "components/molecules/Header";
-
-import 'styles/app.scss'
 
 function App() {
   return (
