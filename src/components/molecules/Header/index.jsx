@@ -9,7 +9,7 @@ const Header = () => {
     <header>
       <div className='header-wrapper'>
         <div className='header-wrapper__logo'>
-          <img src="images/common/logo.png" alt="logo" />
+          <img src="/images/common/logo.png" alt="logo" />
         </div>
 
         <form>

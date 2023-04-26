@@ -1,9 +1,7 @@
+import HomeContainer from "containers/Home"
+
 const Home = () => {
-  return (
-    <div>
-      Home page
-    </div>
-  )
+  return <HomeContainer />
 }
 
 export default Home
