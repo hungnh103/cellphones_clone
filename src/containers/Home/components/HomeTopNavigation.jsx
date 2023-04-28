@@ -1,7 +1,15 @@
-import { useSelector } from "react-redux"
+import { useDispatch, useSelector } from "react-redux"
+import { useEffect } from "react"
+import { fetchCategories } from "store/slices/categorySlice"
 
 const HomeTopNavigation = () => {
   const categories = useSelector(state => state.categories)
+
+  const dispatch = useDispatch()
+
+  useEffect(() => {
+    dispatch(fetchCategories())
+  }, [dispatch])
 
   return (
     <div>
