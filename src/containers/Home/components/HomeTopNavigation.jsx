@@ -1,19 +1,14 @@
+import { useSelector } from "react-redux"
+
 const HomeTopNavigation = () => {
+  const categories = useSelector(state => state.categories)
+
   return (
     <div>
       <ul>
-        <li>Dien thoai</li>
-        <li>Laptop</li>
-        <li>May tinh bang</li>
-        <li>Am thanh</li>
-        <li>Dong ho, may anh</li>
-        <li>Nha thong minh</li>
-        <li>Phu kien</li>
-        <li>PC, man hinh</li>
-        <li>Tivi</li>
-        <li>Thu cu doi moi</li>
-        <li>Hang cu</li>
-        <li>Khuyen mai</li>
+        {categories.map(category =>
+          <li key={category.id}>{category.name}</li>
+        )}
       </ul>
     </div>
   )
