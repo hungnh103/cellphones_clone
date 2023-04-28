@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại",
+      "icon": "smartphone",
+      "spec_criterial": ""
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "icon": "laptop",
+      "spec_criterial": ""
+    },
+    {
+      "id": 3,
+      "name": "Máy tính bảng",
+      "icon": "tablet",
+      "spec_criterial": ""
+    },
+    {
+      "id": 4,
+      "name": "Âm thanh",
+      "icon": "audio",
+      "spec_criterial": ""
+    },
+    {
+      "id": 5,
+      "name": "Đồng hồ, máy ảnh",
+      "icon": "watch_and_camera",
+      "spec_criterial": ""
+    },
+    {
+      "id": 6,
+      "name": "Nhà thông minh",
+      "icon": "smarthouse",
+      "spec_criterial": ""
+    },
+    {
+      "id": 7,
+      "name": "Phụ kiện",
+      "icon": "accessories",
+      "spec_criterial": ""
+    },
+    {
+      "id": 8,
+      "name": "PC, màn hình",
+      "icon": "pc_and_display",
+      "spec_criterial": ""
+    },
+    {
+      "id": 9,
+      "name": "Tivi",
+      "icon": "television",
+      "spec_criterial": ""
+    },
+    {
+      "id": 10,
+      "name": "Thu cũ đổi mới",
+      "icon": "exchange",
+      "spec_criterial": ""
+    },
+    {
+      "id": 11,
+      "name": "Hàng cũ",
+      "icon": "secondhand",
+      "spec_criterial": ""
+    },
+    {
+      "id": 12,
+      "name": "Khuyến mãi",
+      "icon": "sale",
+      "spec_criterial": ""
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 2,
+      "product_id": 5,
+      "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/khai-truong-th4-sliding-55.jpg",
+      "title": "MỪNG KHAI TRƯƠNG\nGiảm giá đến 70%"
+    },
+    {
+      "id": 3,
+      "product_id": 12,
+      "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/a34-sliding-new-th4.png",
+      "title": "GALAXY A34 & A54\nGiá tốt chốt ngay"
+    },
+    {
+      "id": 4,
+      "product_id": 17,
+      "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/sli-note-12-new-th4.png",
+      "title": "REDMI NOTE 12\nMở bán giá tốt"
+    },
+    {
+      "id": 6,
+      "product_id": 25,
+      "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/iphone-14-pro-sliding-new-trogia2tr.jpg",
+      "title": "IPHONE 14 PRO\nGiá tốt bất ngờ"
+    },
+    {
+      "id": 10,
+      "product_id": 38,
+      "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/oppo-sliding-new-moban.png",
+      "title": "OPPO FIND N2 FLIP\nMở bán giá tốt"
+    }
+  ]
+}

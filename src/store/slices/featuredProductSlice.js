@@ -1,29 +1,27 @@
-import { createSlice } from "@reduxjs/toolkit";
-
-const initialData = [
-  {
-    product_id: 3,
-    image: 'https://...samsung',
-    title: 'samsung galaxy, gia tot chot ngay'
-  },
-  {
-    product_id: 5,
-    image: 'https://...iphone',
-    title: 'iphone 14, gia tot bat ngo'
-  },
-  {
-    product_id: 6,
-    image: 'https://...xiaomi',
-    title: 'xiaomi hay lam'
-  }
-]
+import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
+import axios from "axios";
 
 const featuredProductSlice = createSlice({
   name: 'featuredProduct',
-  initialState: initialData,
-  reducers: {}
+  initialState: [],
+  reducers: {},
+  extraReducers: builder => {
+    builder
+      .addCase(fetchAllFeaturedProducts.fulfilled, (_state, action) => {
+        return action.payload
+      })
+  }
 })
 
-const { reducer, actions } = featuredProductSlice
+export const fetchAllFeaturedProducts = createAsyncThunk('fetchAllFeaturedProducts', async () => {
+  try {
+    const response = await axios.get('http://localhost:5000/featured_products')
+    return response.data
+  } catch (error) {
+    return error.message
+  }
+})
+
+const { reducer } = featuredProductSlice
 
 export default reducer
