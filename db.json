@@ -104,5 +104,91 @@
       "image": "https://cdn2.cellphones.com.vn/690x300,webp,q100/https://dashboard.cellphones.com.vn/storage/oppo-sliding-new-moban.png",
       "title": "OPPO FIND N2 FLIP\nMở bán giá tốt"
     }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "iPad 10.2 2021 WiFi 64GB | Chính hãng Apple Việt Nam",
+      "is_hot_sale": true,
+      "listed_price": 50000,
+      "discount": 20,
+      "sale_price": 40000,
+      "avg_rate": 4.5,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/_/x_mmas.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy Tab S8 Ultra 5G",
+      "is_hot_sale": true,
+      "listed_price": 30000,
+      "discount": 5,
+      "sale_price": 25000,
+      "avg_rate": 5,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/a/tab_s8_ultra.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy Tab S8 WIFI",
+      "is_hot_sale": false,
+      "listed_price": 150000,
+      "discount": 7,
+      "sale_price": 141000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/a/tab_s8_2.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Android Tivi Xiaomi P1 55 inch",
+      "is_hot_sale": true,
+      "listed_price": 510000,
+      "discount": 7,
+      "sale_price": 480000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/_/1_74_38.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Google Tivi Toshiba 50 inch 4K HDR 50C350LP",
+      "is_hot_sale": false,
+      "listed_price": 330000,
+      "discount": 8,
+      "sale_price": 300000,
+      "avg_rate": 4.2,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/m/smart_tivi_toshiba_55_inch_4k_hdr_55c350lp.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Samsung Galaxy Tab S7 FE (4G)",
+      "is_hot_sale": true,
+      "listed_price": 380000,
+      "discount": 70,
+      "sale_price": 120000,
+      "avg_rate": 5,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung-galaxy-tab-s7-fe-chinh-hang_1_1_2_1.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Samsung Galaxy Tab S8 Plus 5G",
+      "is_hot_sale": true,
+      "listed_price": 480000,
+      "discount": 30,
+      "sale_price": 21000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/e/series_tab_s8001_1.jpg"
+      ]
+    }
   ]
 }
