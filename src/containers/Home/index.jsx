@@ -1,7 +1,8 @@
 import HomeTop from "./components/HomeTop"
 import HomeBanner from "./components/HomeBanner"
 import HomeHotSales from "./components/HomeHotSales"
-import HomeCategories from "./components/HomeCategories"
+import HomeProducts from "./components/HomeProducts"
+import HomeFooter from "./components/HomeFooter"
 
 const HomeContainer = () => {
   return (
@@ -9,7 +10,8 @@ const HomeContainer = () => {
       <HomeTop />
       <HomeBanner />
       <HomeHotSales />
-      <HomeCategories />
+      <HomeProducts />
+      <HomeFooter />
     </div>
   )
 }
