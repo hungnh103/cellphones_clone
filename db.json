@@ -189,6 +189,78 @@
       "images": [
         "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/e/series_tab_s8001_1.jpg"
       ]
+    },
+    {
+      "id": 22,
+      "name": "Laptop Lenovo Ideapad Gaming 3 15IHU6 82K101B5VN",
+      "is_hot_sale": false,
+      "listed_price": 120000,
+      "discount": 5,
+      "sale_price": 110000,
+      "avg_rate": 3,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/l/a/lap5h05.png"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Mac mini M2 2023 (8 CPU - 10 GPU - 8GB - 256GB) | Chính hãng Apple Việt Nam",
+      "is_hot_sale": false,
+      "listed_price": 150000,
+      "discount": 5,
+      "sale_price": 115000,
+      "avg_rate": 3,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/2/m2_256gb.png"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Giá treo màn hình máy tính North Bayou F160",
+      "is_hot_sale": false,
+      "listed_price": 300000,
+      "discount": 5,
+      "sale_price": 280000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_288_2.png"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Tai nghe Bluetooth Apple AirPods 3 MagSafe | Chính hãng Apple Việt Nam",
+      "is_hot_sale": false,
+      "listed_price": 320000,
+      "discount": 10,
+      "sale_price": 290000,
+      "avg_rate": 5,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/r/group_170_1_1.png"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Đồng hồ thông minh Xiaomi Watch S1 Active",
+      "is_hot_sale": false,
+      "listed_price": 280000,
+      "discount": 10,
+      "sale_price": 260000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi_1_6.png"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Robot hút bụi Xiaomi Vacuum Mop 2 Lite",
+      "is_hot_sale": false,
+      "listed_price": 500000,
+      "discount": 10,
+      "sale_price": 450000,
+      "avg_rate": 4,
+      "images": [
+        "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/o/robot-hut-bui-xiaomi-vacuum-mop-2-lite.png"
+      ]
     }
   ]
 }
